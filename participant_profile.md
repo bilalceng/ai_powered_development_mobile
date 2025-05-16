@@ -4,10 +4,10 @@
 
 ## 🚀 How to Use This File
 
-1. **Fork** this project repository.  
+1. **Fork** this project repository.
    ![Fork](https://img.icons8.com/ios-filled/24/000000/code-fork.png)
 
-2. **Create a folder named `docs`** in the root directory of your forked project.  
+2. **Create a folder named `docs`** in the root directory of your forked project.
    ```
    your-project-root/
      └── docs/
@@ -15,9 +15,9 @@
 
 3. **Copy this file** (`participant_profile.md`) into the `docs` folder.
 
-4. **Update your information** in this file.  
-   - Fill in your name, contact, and other details.
-   - Check the boxes that apply to you.
+4. **Update your information** in this file.
+  - Fill in your name, contact, and other details.
+  - Check the boxes that apply to you.
 
 5. **Commit your changes** following the commit message rules.
 ---
@@ -28,14 +28,14 @@
 
 This document contains information about the participant developer who contributed to the project.
 
-## Participant Name: Bilal Berek
+## Participant Name: Gurkan Fikret Günak
 
-- University: Çukurova Üniversitesi
-- Department: Bilgisayar Mühendisliği
-- Email: bilalberekgmbuss@gmail.com
-- GitHub: [Bilal Berek](https://www.github.com/bilalceng)
-- LinkedIn: [Bilal Berek](https://www.linkedin.com/in/bilalberekli/)
-- Personal Website:
+- University: <!-- Add university name or remove if not applicable -->
+- Department: <!-- Add department name or remove if not applicable -->
+- Email: <!-- Add email address -->
+- GitHub: [gurkanfikretgunak](https://github.com/gurkanfikretgunak)
+- LinkedIn: [Gurkan Fikret Günak](https://www.linkedin.com/in/gurkanfikretgunak/)
+- Personal Website: [gurkanfikretgunak.com](https://www.gurkanfikretgunak.com)
 
 Gurkan Fikret Günak is a passionate software developer with expertise in mobile development and AI-powered applications. He has contributed to the architecture, implementation, and integration of core features in this project.
 
@@ -44,13 +44,13 @@ Feel free to reach out to Gurkan via GitHub, LinkedIn, or his personal website t
 ## **Participant's Project Development Environment Checklist:**
 
 - **UI/UX Design Tools**
-  - [x] Figma
+  - [ ] Figma
   - [ ] Adobe XD
   - [ ] Other (Please specify)
 
 - **IDE (Integrated Development Environment)**
-  - [x] Android Studio
-  - [x] Visual Studio Code
+  - [ ] Android Studio
+  - [ ] Visual Studio Code
   - [ ] Xcode
   - [ ] Other (Please specify)
 
@@ -60,11 +60,12 @@ Feel free to reach out to Gurkan via GitHub, LinkedIn, or his personal website t
 
 - **Repository Hosting**
   - [x] GitHub
+  - [ ] GitLab
   - [ ] Bitbucket
   - [ ] Other (Please specify)
 
 - **Communication Channel**
-  - [x] Slack
+  - [ ] Slack
   - [ ] Microsoft Teams
   - [ ] Other (Please specify)
 
@@ -104,3 +105,4 @@ Feel free to reach out to Gurkan via GitHub, LinkedIn, or his personal website t
 ---
 
 > **"Weeks of coding can save you hours of planning."**
+
