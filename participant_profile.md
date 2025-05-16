@@ -28,14 +28,14 @@
 
 This document contains information about the participant developer who contributed to the project.
 
-## Participant Name: Gurkan Fikret Günak
+## Participant Name: Bilal Berek
 
-- University: <!-- Add university name or remove if not applicable -->
-- Department: <!-- Add department name or remove if not applicable -->
-- Email: <!-- Add email address -->
-- GitHub: [gurkanfikretgunak](https://github.com/gurkanfikretgunak)
-- LinkedIn: [Gurkan Fikret Günak](https://www.linkedin.com/in/gurkanfikretgunak/)
-- Personal Website: [gurkanfikretgunak.com](https://www.gurkanfikretgunak.com)
+- University: Çukurova Üniversitesi
+- Department: Bilgisayar Mühendisliği
+- Email: bilalberekgmbuss@gmail.com
+- GitHub: [Bilal Berek](https://www.github.com/bilalceng)
+- LinkedIn: [Bilal Berek](https://www.linkedin.com/in/bilalberekli/)
+- Personal Website:
 
 Gurkan Fikret Günak is a passionate software developer with expertise in mobile development and AI-powered applications. He has contributed to the architecture, implementation, and integration of core features in this project.
 
@@ -44,13 +44,13 @@ Feel free to reach out to Gurkan via GitHub, LinkedIn, or his personal website t
 ## **Participant's Project Development Environment Checklist:**
 
 - **UI/UX Design Tools**
-  - [ ] Figma
+  - [x] Figma
   - [ ] Adobe XD
   - [ ] Other (Please specify)
 
 - **IDE (Integrated Development Environment)**
-  - [ ] Android Studio
-  - [ ] Visual Studio Code
+  - [x] Android Studio
+  - [x] Visual Studio Code
   - [ ] Xcode
   - [ ] Other (Please specify)
 
@@ -60,12 +60,11 @@ Feel free to reach out to Gurkan via GitHub, LinkedIn, or his personal website t
 
 - **Repository Hosting**
   - [x] GitHub
-  - [ ] GitLab
   - [ ] Bitbucket
   - [ ] Other (Please specify)
 
 - **Communication Channel**
-  - [ ] Slack
+  - [x] Slack
   - [ ] Microsoft Teams
   - [ ] Other (Please specify)
 
